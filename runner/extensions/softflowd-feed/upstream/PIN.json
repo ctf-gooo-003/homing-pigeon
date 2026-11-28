@@ -1,6 +1,6 @@
 {
   "bytes": 53685,
-  "fetched_at": "2026-11-27T17:39:08Z",
+  "fetched_at": "2026-11-28T16:23:25Z",
   "files": {
     "LICENSE": {
       "bytes": 7371,
@@ -20,7 +20,7 @@
     }
   },
   "license": "BSD-3-Clause",
-  "pin": "6089acd3c168d6b8970633e3d1e970f8be460e99",
+  "pin": "b7c7d83e9a6dbedc00500169c333e69651c222b5",
   "ref": "master",
   "repo": "https://github.com/irino/softflowd"
 }
